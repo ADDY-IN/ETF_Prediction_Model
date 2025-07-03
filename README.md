@@ -22,7 +22,6 @@ Build a machine learning pipeline to classify next-day ETF price movement using:
 
 ---
 
-## ⚙️ ML Pipeline
 
 ### ✅ Step 1: Data Preprocessing
 - Sorted by `Date`
@@ -61,7 +60,7 @@ df['target'] = (rolling_avg_future_3_day > today_close).astype(int)
 Model tested on unseen test set:
 
 ```
-Accuracy:        ~70–75%
+Accuracy:        ~0.70–0.75
 Precision (↑):   ~0.73
 Recall (↑):      ~0.75
 F1-Score (↑):    ~0.74
@@ -134,7 +133,7 @@ ETF_Prediction/
 ## ✍️ Author
 
 **Aditya Kaushik**
-*ML + Finance Enthusiast | Python Developer | ETF Researcher*
+*ML + Finance Enthusiast | Python Developer*
 
 ---
 
