@@ -1,10 +1,3 @@
-Got it bhai 😄 — tu **ekdum single block mein complete `README.md`** maang raha hai, copy-paste kar sake directly GitHub ke liye. Ye le, ekdum tuned version jo teri ETF CatBoost project ke liye perfectly fit hai 👇
-
----
-
-### 📘 Final `README.md` (Single Copy-Paste Block)
-
-````markdown
 # 📈 ETF Price Movement Prediction using CatBoost
 
 This project predicts **short-term price direction (up/down)** for ETFs based on historical price data and technical indicators. The goal is to train a classification model that helps anticipate whether the ETF will go up the next day — using a feature-engineered ML pipeline with CatBoost and SMOTE.
@@ -143,19 +136,9 @@ ETF_Prediction/
 **Aditya Kaushik**
 *ML + Finance Enthusiast | Python Developer | ETF Researcher*
 
-📧 [kaushik.aditya.official@gmail.com](mailto:kaushik.aditya.official@gmail.com)
-📍 Based in India
-
 ---
 
 ## ⭐ GitHub
 
 If you found this helpful, give it a ⭐ on GitHub — it motivates to share more open-source work!
 
-```
-
----
-
-Copy this block as-is and paste it inside your `README.md` file.  
-If tu chahe toh bata — Streamlit demo app ya Docker bhi bana ke du tere liye in the same repo style.
-```
