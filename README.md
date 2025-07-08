@@ -60,7 +60,7 @@ df['target'] = (rolling_avg_future_3_day > today_close).astype(int)
 Model tested on unseen test set:
 
 ```
-Accuracy:        ~0.70–0.75
+Accuracy:        ~0.81
 Precision (↑):   ~0.73
 Recall (↑):      ~0.75
 F1-Score (↑):    ~0.74
